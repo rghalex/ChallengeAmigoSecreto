@@ -45,6 +45,7 @@ function sortearAmigo() {
 
 }
 
-// Mostrar lista incial al cargar """"""""""""""""""
+// Mostrar lista incial al cargar
+mostrarLista();
 
 
