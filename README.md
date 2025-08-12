@@ -3,7 +3,7 @@
 
 * Esta es una apliacion web simple, la cual te permitira organizar un sorteo de
   "Amigo Secreto". Como usuario podras ingresar los nombres de tus amigos,   
-   visualizarlos en una lista y realizar un sorteo aleatorio para descubrir quien es el amigo asignado. -----> [text](https://rghalex.github.io/ChallengeAmigoSecreto/)
+   visualizarlos en una lista y realizar un sorteo aleatorio para descubrir quien es el amigo asignado. -----> [LinkJuego](https://rghalex.github.io/ChallengeAmigoSecreto/)
 
 
 # Como usar la pagina? Sencillo!
