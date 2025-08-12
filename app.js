@@ -1,6 +1,6 @@
 // Lista inicial con el nombre de los participantes
 
-let amigos = ["Maria, Yasna, Cristian, Cristofer, Robert, Agustin"];
+let amigos = [""];
 
 // Ref elementos DOM
 const inputAmigo = document.getElementById("amigo");
