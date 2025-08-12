@@ -48,4 +48,3 @@ function sortearAmigo() {
 // Mostrar lista incial al cargar
 mostrarLista();
 
-//modified
