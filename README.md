@@ -1,4 +1,4 @@
-- Amigo Secreto - Instrucciones y Detalles Tecnicos
+- Amigo Secreto - Instrucciones y Detalles Tecnicos   // Autor @rghalex
 
 * Esta es una apliacion web simple, la cual te permitira organizar un sorteo de
   "Amigo Secreto". Como usuario podras ingresar los nombres de tus amigos,   
