@@ -37,14 +37,14 @@
 
   # Condicionales utilizadas
 
-  Verificacion de que el campo de texto no este vacio antes de agregar un nombre
+  * Verificacion de que el campo de texto no este vacio antes de agregar un nombre
 
-  Comprobacion de que la lista no este vacia antes de realizar el sorteo
+  * Comprobacion de que la lista no este vacia antes de realizar el sorteo
 
-  Alertas que guian al usuario cuando intenta realizar acciones invalidas
+  * Alertas que guian al usuario cuando intenta realizar acciones invalidas
 
-  El codigo uza la funcion Math.random() para generar numeros aleatorios que determinen el amigo secreto.
-
+  * El codigo uza la funcion Math.random() para generar numeros aleatorios que 
+    determinen el amigo secreto.
 
   * Interactua con la aplicacion desde el navegador o en tu PC con VSC y Disfruta d
     el Sorteo!
